@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Math Portfolio</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(to bottom left, #1f2937, #111827);
+      color: white;
+      font-family: 'Segoe UI', sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
+
+    .container {
+      max-width: 800px;
+      width: 100%;
+      padding: 20px;
+      text-align: center;
+    }
+
+    .glow-text {
+      font-size: 3em;
+      font-weight: bold;
+      background: linear-gradient(to right, #6366f1, #ec4899, #facc15);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: glow 2s infinite alternate;
+    }
+
+    @keyframes glow {
+      from {
+        text-shadow: 0 0 5px #6366f1, 0 0 10px #ec4899, 0 0 15px #facc15;
+      }
+      to {
+        text-shadow: 0 0 10px #6366f1, 0 0 20px #ec4899, 0 0 25px #facc15;
+      }
+    }
+
+    .card {
+      background-color: #1f2937;
+      border: 1px solid #374151;
+      border-radius: 16px;
+      padding: 24px;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+      margin-top: 30px;
+      text-align: left;
+    }
+
+    .status-heading {
+      font-size: 1.5em;
+      font-weight: 600;
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      color: #ec4899;
+    }
+
+    .status-heading span {
+      font-size: 1.2em;
+    }
+
+    .status-body {
+      font-size: 1.1em;
+      color: #d1d5db;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="glow-text">Mathematics Portfolio</div>
+
+    <div class="card">
+      <div class="status-heading">
+        <span>∑</span>
+        <span>ƒ</span>
+        <span>∏</span>
+        <span>My Current Status</span>
+      </div>
+      <div class="status-body">
+        <!-- ✏️ Replace this placeholder text -->
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. You can replace this placeholder with your current focus, academic progress, or mathematics-related activities.
+      </div>
+    </div>
+  </div>
+</body>
+</html>
