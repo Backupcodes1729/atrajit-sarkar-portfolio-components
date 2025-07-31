@@ -1,0 +1,9 @@
+### Educational Qualification:
+
+| Qualification                          | School/Board/College/University along with name of the institution and place/city                                                                                             | Year of Passing | Percentage only* |
+|----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|------------------|
+| 10<sup>th</sup> Grade                  | Ramakrishna Mission Vidyabhavan, Midnapore, West Bengal, India, Board – West Bengal Board of Secondary Education, Kolkata, India                                              | 2017             | 96.57            |
+| 12<sup>th</sup> Grade                 | Midnapore Collegiate School, Midnapore, West Bengal, India, Board – West Bengal Council for Higher Secondary Education, Kolkata, India                                        | 2019             | 88.80            |
+| Bachelor Degree (in Mathematics, Honours) | Ramakrishna Mission Vidyamandira, Belur Math, Howrah, West Bengal, India, affiliated to University of Calcutta, Kolkata, India                                                 | 2022             | 91.80            |
+| Master Degree (in Mathematics)         | Indian Institute of Science Education and Research, Pune, Maharashtra, India                                                                                                   | April, 2024      | 81.00            |
+| M.Phil./Ph.D.                          | NA                                                                                                                                                                             |                  |                  |
